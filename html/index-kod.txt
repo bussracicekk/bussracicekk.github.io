@@ -1,0 +1,46 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<style>
+body {
+   background-color: #000000;
+}
+</style>
+<body>
+<a name="start"></a>
+       <ul id="menu">
+       <li><a href="links.html">Links</a></li>
+       <li><a href="myDep.html">My Departmant</a></li>
+       <li><a href="index.html">Home</a></li>
+       </ul>
+<h1>BÜÞRA ÇÝÇEK</h1>
+<div id="constant1"><img src="my photography.jpg" width=400 height=500/></div>
+<div id="style">My name is Büþra Çiçek. I am 19 years old and I am from Çankýrý,</div>
+<div id="style">but I live in Ankara because</div>
+<div id="style">I am a student in computer engineering of Hacettepe University.</div>
+<div id="style">and I love my school because there are not only lessons</div>
+<div id="style"> but also there are activities.</div>
+<div id="style">by the way my life is not only school at the same time</div>
+<div id="style">I have a lot of hobbies outside of university.</div>
+<img src="book.jpg"align=right width=200 height=250>
+<img src="images.jpg"align=right width=200 height=250>
+<div id="style1">I love reading book and listening music like most of people.</div>
+<div id="style1">I believe books are the best friend for people.</div>
+<div id="style1">On the other hand music is very important for me.</div>
+<div id="constant2"><img src="photo.jpg" width=200 height=250></div>
+<div id="style">I love to see new places and to disappear.</div>
+<div id="style">I think if a person does not disappear,</div>
+<div id="style">he/she can not find what he/she was looking.</div>
+<a href="my cv.pdf">cv.pdf</a>
+<div id="style">my e-mail adress:</div>
+<a href="mailto:busra_cicek@hacettepe.edu.tr">busra_cicek@hacettepe.edu.tr</a>
+</body>
+</html>

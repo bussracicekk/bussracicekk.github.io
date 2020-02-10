@@ -1,0 +1,75 @@
+<html>
+<head>
+</head>
+body { background-color:#FF0000; }
+h1 {
+   color:orange;
+   font-family:comic sans ms;
+   font-size:28;
+   text-align:left;
+}
+#style{
+    color:#FFFFFF;
+    text-align:left;
+    font-family:comic sans ms;
+    font-size:20;
+}
+#style1{
+    color:#FFFFFF;
+    text-align:right;
+    font-family:comic sans ms;
+    font-size:20;
+}
+
+
+#style3{
+    color:green;
+    text-align:left;
+    font-family:comic sans ms;
+    font-size:20;
+}
+#style4{
+    color:#FFFFFF;
+    text-align:left;
+    font-family:comic sans ms;
+    font-size:18;
+}
+#constant1{
+    top:0px;
+    left:0px
+}
+#constant2{
+    bottom:0px;
+    right:0px;
+}
+#menu{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+#menu li{
+	float: right;
+	width: 150px;
+	position: relative;
+}
+#menu a{
+	font-family: comic sans ms;
+	font-size:16px;
+	color: #FF0000;
+	bacground-color:#FFFFFF;
+	display: block;
+	padding-top: 5px;
+	padding-right: 5px;
+	border: 1px solid #FFFFFF;
+	text-align:center;
+	line-height:35px;
+	margin-right: 2px;
+}
+#menu a:hover{
+	background-color: #FF3333;
+}
+</html>
+
+	
+
+

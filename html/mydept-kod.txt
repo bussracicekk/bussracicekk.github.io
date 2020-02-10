@@ -1,0 +1,108 @@
+
+
+
+
+
+
+<html>
+<head>
+<title>myDepartmant</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<style>
+body{
+	background-color:#000000;
+}
+
+</style>
+<body>
+<a name="start"></a>
+       <ul id="menu">
+       <li><a href="links.html">Links</a></li>
+       <li><a href="myDep.html">My Departmant</a></li>
+       <li><a href="index.html">Home</a></li>
+       </ul>
+       &nbsp;
+       &nbsp;
+ <h1>COMPUTER ENGINERING</h1>
+ 
+ <div id="style4">I am studying computer engineering at Hacettepe University and this year is my first year.</div>
+ <div id="style4">This is my weekly schedule:</div>
+ &nbsp;
+ <table border="1" bgcolor="#FFFFFF">
+  <tr>
+  <td>            </td>
+  <td><b>Monday</b></td>
+  <td><b>Thuesday</b></td>
+  <td><b>Wednesday</b></td>
+  <td><b>Thursday</b></td>
+  <td><b>Friday</b></td>
+  </tr>
+  <tr>
+  <td><b>09:00-09:45</b></td>
+  <td>FiZ 103</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>MAT 123</td>
+  </tr>
+  <tr>
+  <td><b>10:00-10:45</b></td>
+  <td>FiZ 103</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>MAT 123</td>
+  </tr>
+  <tr>
+  <td><b>11:00-11:45</b></td>
+  <td>FiZ 103</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>MAT 123</td>
+  </tr>
+  <tr>
+  <td><b>12:00-12:45</b></td>
+  <td>       </td>
+  <td>       </td>
+  <td>       </td>
+  <td>       </td>
+  <td>       </td>
+  </tr>
+  <tr>
+  <td><b>13:00-13:45</b></td> 
+  <td>MAT 123</td>
+  <td>FiZ 137</td>
+   <td>BBM 101</td>
+   <td>BBM 103</td>
+  <td>FiZ 137</td>
+  </tr>
+  <tr>
+  <td><b>14:00-14:45</b></td>
+   <td>MAT 123</td>
+   <td>FiZ 137</td>
+   <td>BBM 101</td>
+   <td>BBM 103</td>
+   <td>FiZ 137</td>
+  </tr>
+  <tr>
+  <td><b>15:00-15:45</b></td>
+  <td>MAT 123</td>
+  <td></td>
+  <td>BBM 101</td>
+  <td></td>
+  <td></td>
+  </tr>
+ </table>
+  <div id="style4">If you want to be computer engineer,you should study at least 4 years in college.</div>
+ <div id="style4">In first class,you receive basic engineering courses,such as mathematics,physics.</div
+ ><div id="style3">What does a computer engineer do?</div>
+ <div id="style4">In fact a computer engineer is a designer because they do computer design.</div>
+ <div id="style4">Computer engineers embed computers in other machines and systems and they improve new system for everybody.</div>
+ <div id="style4">Computer engineers usually have training in electronic engineering,software design and hardware-software integration instead of only software engineering or electronic engineering.</div>
+ <div id="style4">Computer science always evolves so computer engineering is always important.</div>
+ <div id="style3">Work</div>
+ <div id="style4">You can find a work easily at the end of the school, for example; you can work in banks,software companies,research-development companies,etc.</div>
+</body>
+</html>
